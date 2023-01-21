@@ -11,7 +11,7 @@ I recently deleted a lot of my repositories that I thought weren't good enough f
 I am a wholesome person, and I always try to do my best. I appreciate your visit to my Github profile and I hope you enjoy what you see here.
 
 ## Contact Information
-- IRC: irc://libera.chat:pitagoras
+- IRC: irc://libera.chat:monkagoras
 
 ## Skills
 - Learning Rust (language)
