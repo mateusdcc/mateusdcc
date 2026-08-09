@@ -5,3 +5,5 @@ Working on the Dawl language, a language for defining vendor-independent determi
 Fan of everything meta: metamathematics, meta-learning, metaprogramming, metacompilation, schema metamodeling, meta-build systems.
 
 Modern perspectivist.
+
+Me: https://mateusdcc.space
